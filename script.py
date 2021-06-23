@@ -11,13 +11,13 @@ Send me any Telegram file and choose appropriate option!
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
-    UPGRADE_TEXT = "CONTACT @Ts_Bots"
+    UPGRADE_TEXT = "CONTACT @Tips_Tik_Discussion"
 
     DOWNLOAD_START = "Download Started... "
 
     UPLOAD_START = "Uploading Started... "
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Ts_Bots**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Tips_Tik**"
 
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
 
@@ -27,7 +27,7 @@ Send me any Telegram file and choose appropriate option!
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = "@Ts_Bots"
+    CUSTOM_CAPTION_UL_FILE = "@Tips_Tik"
 
     HELP_USER = """
 
@@ -42,7 +42,7 @@ Send me any Telegram file and choose appropriate option!
 4. Send the new file when bot asks 
 
 
-<b>By @Ts_Bots</b>
+<b>By @Tips_Tik</b>
 """
 
     ABOUT_TEXT = """
@@ -57,10 +57,10 @@ Send me any Telegram file and choose appropriate option!
 
 ○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Hillard-har/RENAMER-BOT) 
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/eo792/rename) 
 
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_Bots](https://t.me/ts_bots)
+○ ᴄʀᴇᴀᴛᴏʀ : [@Tips_Tik](https://t.me/Tips_tik)
 
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/Ts_bots)**
+**[©️ Tips Tik](https://t.me/Tips_Tik)**
 
 """
