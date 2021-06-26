@@ -49,7 +49,7 @@ async def place_water_mark(input_file, output_file, water_mark_file):
         # "\"[0:0] scale=400:225 [wm]; [wm][1:0] overlay=305:0 [out]\"",
         # "-map \"[out]\" -b:v 896k -r 20 -an ",
         "\"overlay=(main_w-overlay_w):(main_h-overlay_h)\"",
-        # "-vf \"drawtext=text='@FFMovingPictureExpertGroupBOT':x=W-(W/2):y=H-(H/2):fontfile=" + Config.FONT_FILE + ":fontsize=12:fontcolor=white:shadowcolor=black:shadowx=5:shadowy=5\"",
+        # "-vf \"drawtext=text='@Rename_TT_Bot':x=W-(W/2):y=H-(H/2):fontfile=" + Config.FONT_FILE + ":fontsize=12:fontcolor=white:shadowcolor=black:shadowx=5:shadowy=5\"",
         output_file
     ]
     # print(commands_to_execute)
