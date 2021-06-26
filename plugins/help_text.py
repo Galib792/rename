@@ -87,7 +87,7 @@ async def rename_cb(bot, update):
     try:
         filename = file.file_name
     except:
-        filename = "Not Available"
+        filename = "Available"
     
     await bot.send_message(
         chat_id=update.chat.id,
